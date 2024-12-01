@@ -50,7 +50,7 @@ int main(){
 	         printf(" nhap gia tri ");
 	         scanf("%d",&n);
 	         arr[index]=n;
-	         for(int i=0;i<a;i++){
+	         for(int i=0;i<sl;i++){
 		     printf(" %d ",arr[i]);
 	         }
 	        }
